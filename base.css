@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html{
-  height: auto;
+  min-height: 100%;
 }
 body {
   padding: 95px;
@@ -14,7 +14,6 @@ body {
   background: linear-gradient(124.53deg, #fc3f5f 0%, #7d61ff 100.32%);
   background-repeat: no-repeat;
   color: #fff;
-  height: 100%;
 }
 
 ul {
